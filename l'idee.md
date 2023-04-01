@@ -3,9 +3,7 @@ title: L'idée
 ---
 Un groupe de consommateurs passe un contrat avec un maraîcher local. Chaque mangeur achète à l'avance sa part de récolte par souscription
 
-## Une alimentation saine,
-
-## Un environnement préservé
+## Une alimentation saine, un environnement préservé
 
 Les légumes sont frais, de saison, diversifiés, cultivés sans herbicide ni pesticide de synthèse et disponibles à mesure de leur maturité.
 
