@@ -20,5 +20,4 @@ Des consom'acteurs mangeurs
 D'autres producteurs diversifiés, fruits, œufs, champignons, fromages de vache ou de chèvre, miel livrent sous contrats.
 
 #### Contact :
-Véronique Savoie : 05 57 43 61
-Cécile Galland : 06 72 21 05 50
+Véronique Savoie : 05 57 43 61 - Cécile Galland : 06 72 21 05 50
