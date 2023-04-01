@@ -14,7 +14,7 @@ Des consom'acteurs mangeurs
 ##### Tous les mardis de 18h30 à 20h
 À Vérac (33) devant la salle polyvalente
 
-![Plan de Vérac](https://www.openstreetmap.org/?mlat=44.99136&mlon=-0.34151#map=17/44.99136/-0.34151)
+![Plan de Vérac](https://github.com/laem-amap/test-website-repo-3796/blob/main/images/PlanOSM-Verac-Oasis.png?raw=true)
 
 ##### Ou tous les vendredis à partir de 16h
 À l'Oasis de Virlès à Vérac
