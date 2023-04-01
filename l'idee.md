@@ -17,4 +17,4 @@ Ce concept permet de créer de l'emploi et contribue à une diminution d'émissi
 
 Le producteur est présent à chaque distribution de légumes pour nous faire découvrir ses produits et son métier.
 
-Des animations sont également organisés à la ferme.
+Des animations sont également organisées à la ferme.
