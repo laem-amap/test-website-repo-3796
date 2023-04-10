@@ -14,6 +14,8 @@ Des consom'acteurs mangeurs
 ##### Tous les mardis de 18h30 à 20h
 À Vérac (33) devant la salle polyvalente
 
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.34312427043914795%2C44.9905487244925%2C-0.3395837545394898%2C44.9920909005284&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/44.99132/-0.34135">Afficher une carte plus grande</a></small>
+
 ![Plan de Vérac](https://github.com/laem-amap/test-website-repo-3796/blob/main/images/PlanOSM-Verac-Oasis.png?raw=true)
 
 ##### Ou tous les vendredis à partir de 16h
