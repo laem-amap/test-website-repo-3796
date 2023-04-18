@@ -14,7 +14,7 @@ title: Les producteurs
 |                                          |                                  |                                 |
 |Denis Laroche                       | **Fruits** et produits   | Selon maturité            |
 |                                          | transformés                | été, automne              |
-|  _Messac (Charente)_            | Agneau (ponctuel)        | 4ème mardi du mois   |
+|  _Messac (Charente)_            | **Agneau** (ponctuel)   | 4ème mardi du mois   |
 |                                          |                                  |                                 |
 |                                          |                                  |                                 |
 |    Olivia Quillet                    |                                  |                                 |
