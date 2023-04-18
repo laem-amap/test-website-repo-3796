@@ -3,13 +3,13 @@ title: Les producteurs
 ---
 |Producteur                          |          Produits             |Distribution                  |
 |:---------------------------------|:---------------------------:|----------------------------:|
-|Amandine Korsoun,               | Légumes de saison       |Le mardi ou le vendredi  |
-| _l'Oasis de Virlès, Vérac_       |                                  |                                  |
+|Amandine Korsoun,               |                                  |Le mardi ou le vendredi  |
+| _l'Oasis de Virlès, Vérac_       | Légumes de saison       |                                  |
 |                                          |                                  |                                  |
 |                                          |                                  |                                 |
 |Flavien Canivet                     |                                  |                                 |
 |_GAEC de la Coutaude,_          |  Produits laitiers (vache)| 2ème et                    |
-|_Sadillac (24)_                       | pains                          | 4ème mardi du mois    |
+|_Sadillac (24)_                       |  et pains                     | 4ème mardi du mois    |
 |                                          |                                  |                                  |
 |                                          |                                  |                                 |
 |Denis Laroche                       | Fruits et produits         | Selon maturité            |
@@ -23,15 +23,15 @@ title: Les producteurs
 |                                          |                                  |                                 |
 |  Antonio Segura Lizan         |   Agrumes                     |                                 |
 |                                        | Orange, citron,              |                                  |
-| _Fruits d'Espagne_                |  clémentine, avocat      |    4ème mardi du mois  |
-|                                          |   Huile d'olive               |    3 fois par ans           |
+|                                         |  clémentine, avocat      |    4ème mardi du mois  |
+|    _Fruits d'Espagne_             |   Huile d'olive               |    3 fois par ans          |
 |                                          |  Bidon (3 ou 5l.)           |                                  |
 |                                          |                                  |                                  |
 |                                          |                                  |                                 |
 |                                          |                                  |                                 |
 |     Laurent Disson                |                                  |                                 |
-|     _Le Champi Bio_              |Champignons                |  4ème mardi du mois |
-|  _St Germain de la Rivière_  | (Paris, Shitakés, Pleurotes) |                              |
+|     _Le Champi Bio_              |Champignons                |                                 |
+|  _St Germain de la Rivière_  | (Paris, Shitakés, Pleurotes) | 4ème mardi du mois |
 |         _(33)_                       |                                  |                                 |
 |                                          |                                  |                                 |
 |                                          |                                  |                                 |
@@ -39,11 +39,11 @@ title: Les producteurs
 |  _Cadillac en Fronsadais (33)_ |   Miel                         |   4ème mardi du mois |
 |                                          |                                  |                                 |
 |                                          |                                  |                                 |
-|    Aurélie Sabourdy               | Fromages de chèvre      |    Le mardi                |
-| Le P'tit Cadoue,                    | Faisselles et yaourts     |  Semaines paires        |
-| _Tizac de Lapouyade (33)_      |                                  |                                 |
+|    Aurélie Sabourdy               |                                  |    Le mardi                |
+| Le P'tit Cadoue,                    | Fromages de chèvre     |  Semaines paires        |
+| _Tizac de Lapouyade (33)_      | Faisselles et yaourts     |                                 |
 |                                          |                                  |                                 |
 |                                          |                                  |                                 |
 |   Céline Labadie                   |                                  |                                 |
-|  EARL Labadie                     |      Œufs                     |   Le mardi   |
-| __La Lande de Fronsac_        |                                  |                                 |
+|  EARL Labadie                     |      Œufs                     |   Le mardi                 |
+| _La Lande de Fronsac_         |                                  |                                 |
