@@ -29,8 +29,20 @@ title: Les producteurs
 |                                          |                                  |                                  |
 |                                          |                                  |                                 |
 |                                          |                                  |                                 |
-|     Laurent Disson                |   Champignons             |    4ème mardi du mois|
-|     _Le Champi Bio_              |(Paris, Shitakés, Pleurotes)|                             |
+|     Laurent Disson                |   Champignons             |                                 |
+|     _Le Champi Bio_              |(Paris, Shitakés, Pleurotes)|  4ème mardi du mois |
+|  _St Germain de la Rivière_  |                                  |                                 |
+|         _(33)_                       |                                  |                                 |
+|                                          |                                  |                                 |
+|                                          |                                  |                                 |
+|     Christophe Audouin          |                                  |                                 |
+|  _Cadillac en Fronsadais (33)_   |   Miel                         |                                 |
+|                                          |                                  |                                 |
+|                                          |                                  |                                 |
+|    Aurélie Sabourdy               | Fromages de chèvre      |                                 |
+| Le P'tit Cadoue,                    | Faisselles et yaourts     |                                 |
+| _Tizac de Lapouyade (33)_      |                                  |                                 |
+|                                          |                                  |                                 |
 |                                          |                                  |                                 |
 |                                          |                                  |                                 |
 |                                          |                                  |                                 |
