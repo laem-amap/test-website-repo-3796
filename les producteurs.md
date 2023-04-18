@@ -21,16 +21,16 @@ title: Les producteurs
 |  _La Ferme de Laruscade (33)_ |  Poulet                       |  4ème mardi du mois   |
 |                                          |                                  |                                  |
 |                                          |                                  |                                 |
-|  _Antonio Segura Lizan_         |   Agrumes                   |                                 |
+|  Antonio Segura Lizan         |   Agrumes                   |                                 |
 |                                        | Orange, citron,            |                                  |
-| (Fruits d'Espagne)                |  clémentine, avocat      |    4ème mardi du mois  |
-|  Huile d'olive                       |   Bidon (3 ou 5l.)         |    3 fois par ans           |
+| _Fruits d'Espagne_                |  clémentine, avocat      |    4ème mardi du mois  |
+| _Huile d'olive_                       |   Bidon (3 ou 5l.)         |    3 fois par ans           |
 |        |                                  |                                  |
 |                                          |                                  |                                  |
 |                                          |                                  |                                 |
-|  Laurent Disson                    |                                  |                                 |
-|  _Le Champi Bio_                  |   Champignons             |    4ème mardi du mois|
-|                                          |(Paris, Shitakés, Pleurotes)|                             |
+|                                          |                                  |                                 |
+|     Laurent Disson                |   Champignons             |    4ème mardi du mois|
+|     _Le Champi Bio_              |(Paris, Shitakés, Pleurotes)|                             |
 |                                          |                                  |                                 |
 |                                          |                                  |                                 |
 |                                          |                                  |                                 |
