@@ -22,7 +22,7 @@ D'autres producteurs diversifiés, fruits, œufs, poulets, champignons, fromages
 ![Plan de Vérac](https://github.com/laem-amap/test-website-repo-3796/blob/main/images/PlanOSM-Verac-Oasis.png?raw=true)
 
 ##### Ou tous les vendredis à partir de 16h
-À l'Oasis de Virlès à Vérac
+À l'Oasis de Virlès à Vérac (libre service)
 
 
 #### Contact :
