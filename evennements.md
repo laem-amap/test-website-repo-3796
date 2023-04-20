@@ -3,7 +3,7 @@ title: Évennements
 ---
 ### Visites :
 
-Régulières des producteurs
+Régulières chez les producteurs
 
 ### Portes ouvertes :
 
@@ -15,4 +15,4 @@ au jardin de l'Oasis de Virlès, Vérac.
 
 ### Ateliers :
 
-Aide des producteurs.
+Aide aux producteurs.
