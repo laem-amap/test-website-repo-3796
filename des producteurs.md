@@ -30,7 +30,7 @@ title: Des producteurs
 |                                          |                                  |                                 |
 |     Laurent Disson                |                                  |                                 |
 |     _Le Champi Bio_              |**Champignons**          |                                 |
-|  _St Germain de la Rivière (33)| (Paris, Shitakés, Pleurotes)| 4ème mardi du mois |
+|_St Germain de la Rivière (33)_| (Paris, Shitakés, Pleurotes)| 4ème mardi du mois |
 |                                          |                                  |                                 |
 |                                          |                                  |                                 |
 |                                          |                                  |                                 |
