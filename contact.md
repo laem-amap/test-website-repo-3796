@@ -27,4 +27,5 @@ D'autres producteurs diversifiés, fruits, œufs, poulets, champignons, fromages
 
 #### Contact :
 Véronique Savoie : 05 57 43 61 - Cécile Galland : 06 72 21 05 50
-[Amandine Korsoun](amandine.oasisdevirles@sfr.f)
+
+Amandine Korsoun <amandine.oasisdevirles@sfr.f>
