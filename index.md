@@ -1,5 +1,5 @@
 ---
-title: Accueil - L'idée
+title: L'idée
 ---
 Un groupe de consommateurs passe un contrat avec un maraîcher local. Chaque mangeur achète à l'avance sa part de récolte par souscription.
 
