@@ -30,8 +30,8 @@ title: Des producteurs
 |                                          |                                  |                                 |
 |     Laurent Disson                |                                  |                                 |
 |     _Le Champi Bio_              |**Champignons**          |                                 |
-|  _St Germain de la Rivière_  | (Paris, Shitakés, Pleurotes) | 4ème mardi du mois |
-|         _(33)_                       |                                  |                                 |
+|  _St Germain de la Rivière (33)| (Paris, Shitakés, Pleurotes)| 4ème mardi du mois |
+|                                          |                                  |                                 |
 |                                          |                                  |                                 |
 |                                          |                                  |                                 |
 |     Christophe Audouin          |                                  |  Tous les 3 mois          |
@@ -39,10 +39,10 @@ title: Des producteurs
 |                                          |                                  |                                 |
 |                                          |                                  |                                 |
 |    Aurélie Sabourdy               |                                  |    Le mardi                |
-| Le P'tit Cadoue,                   | **Fromages de chèvre** |  Semaines paires        |
+| _Le P'tit Cadoue,_                 | **Fromages de chèvre** |  Semaines paires        |
 | _Tizac de Lapouyade (33)_      | Faisselles et yaourts     |                                 |
 |                                          |                                  |                                 |
 |                                          |                                  |                                 |
 |   Céline Labadie                   |                                  |                                 |
-|  EARL Labadie                     |      **Œufs**               |   Le mardi                 |
+|  _EARL Labadie_                  |      **Œufs**               |   Le mardi                 |
 | _La Lande de Fronsac_         |                                  |                                 |
