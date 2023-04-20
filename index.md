@@ -1,6 +1,8 @@
 ---
 title: L'idée
 ---
+### L'idée
+
 Un groupe de consommateurs passe un contrat avec un maraîcher local. Chaque mangeur achète à l'avance sa part de récolte par souscription.
 
 Une **AMAP** sur [Wikipédia ?](https://fr.wikipedia.org/wiki/Association_pour_le_maintien_d%27une_agriculture_paysanne)
