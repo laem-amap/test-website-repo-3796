@@ -1,7 +1,9 @@
 ---
 title: Accueil - L'idée
 ---
-Un groupe de consommateurs passe un contrat avec un maraîcher local. Chaque mangeur achète à l'avance sa part de récolte par souscription
+Un groupe de consommateurs passe un contrat avec un maraîcher local. Chaque mangeur achète à l'avance sa part de récolte par souscription.
+
+Une amap sur [Wikipédia ?](https://fr.wikipedia.org/wiki/Association_pour_le_maintien_d%27une_agriculture_paysanne)
 
 ## Une alimentation saine, un environnement préservé
 
