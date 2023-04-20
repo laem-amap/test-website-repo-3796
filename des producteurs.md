@@ -45,4 +45,4 @@ title: Des producteurs
 |                                          |                                  |                                 |
 |   Céline Labadie                   |                                  |                                 |
 |  _EARL Labadie_                  |      **Œufs**               |   Le mardi                 |
-| _La Lande de Fronsac_         |                                  |                                 |
+| _La Lande de Fronsac (33)_         |                                  |                                 |
