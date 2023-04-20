@@ -24,8 +24,8 @@ title: Des producteurs
 |  Antonio Segura Lizan         |   **Agrumes**               |                                 |
 |                                        | Orange, citron,              |                                  |
 |                                         |  clémentine, avocat      |    4ème mardi du mois  |
-|    _Fruits d'Espagne_             |   **Huile d'olive**        |    3 fois par ans          |
-|                                          |  Bidon (3 ou 5l.)           |                                  |
+|    _Fruits d'Espagne_             |   **Huile d'olive**        |    de novembre à avril  |
+|                                          |  Bidon (3 ou 5l.)           |     3 fois par ans       |
 |                                          |                                  |                                  |
 |                                          |                                  |                                 |
 |     Laurent Disson                |                                  |                                 |
