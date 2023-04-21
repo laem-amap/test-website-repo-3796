@@ -11,7 +11,7 @@ Un environnement protégé
 
 Des consom'acteurs mangeurs
 
-##### Tous les mardis de 18h30 à 20h
+##### Tous les mardis de 18h30 à 19h30
 À Vérac (33) devant la salle polyvalente
 
 
