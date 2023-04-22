@@ -3,7 +3,7 @@ title: Contact
 ---
 ## L'assiette Éthique des Mangeurs en AMAP
 
-Association pour le maintien de l'agriculture paysanne
+Association pour le maintien de l'agriculture paysanne (Associations loi du 1er juillet 1901)
 
 Des aliments sains
 
