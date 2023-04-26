@@ -10,7 +10,7 @@ Régulières chez les producteurs
 ###### Samedi 29 avril 2023, 10h à 18h
 au jardin de l'Oasis de Virlès, Vérac.
 
-
+![Portes ouvertes 2022](https://github.com/laem-amap/test-website-repo-3796/blob/main/images/resized_PO-Stands.jpg?raw=true "Portes ouvertes 2022")
 
 
 ### Ateliers :
