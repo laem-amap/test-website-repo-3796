@@ -12,7 +12,7 @@ title: Des producteurs
 |Flavien Canivet                     |                                  |                                 |
 |_GAEC de la Coutaude,_       |**Produits laitiers** (vache)| 2ème et                   |
 |_Sadillac (24)_                       |  et **pains**               | 4ème mardi du mois   |
-|  ![Pain et laitages](https://github.com/laem-amap/test-website-repo-3796/blob/main/images/resized_Distribution-fromages-pain.jpg?raw=true)                                        |                                  |                                  |
+|  ![Pain et laitages](https://github.com/laem-amap/test-website-repo-3796/blob/main/images/resized_Distribution-fromages-pain.jpg?raw=true "Laitage et pain")                                        |                                  |                                  |
 |                                          |                                  |                                |
 |Denis Laroche                       | **Fruits** et produits   | Selon maturité            |
 |                                          | transformés                | été, automne              |
@@ -26,9 +26,9 @@ title: Des producteurs
 |  Antonio Segura Lizan         |   **Agrumes**               |                                 |
 |                                        | Orange, citron,              |   4ème mardi du mois  |
 |                                         |  clémentine, avocat      |  de novembre à avril     |
-|    _Fruits d'Espagne_             |   **Huile d'olive**        |                                 |
+|    _Fruits d'Espagne_             |   **Huile d'olive**        |                                |
 |                                          |  Bidon (3 ou 5l.)           |     3 fois par ans         |
-|                                          |                                  |                                  |
+|  ![Orange d'Espagne](https://github.com/laem-amap/test-website-repo-3796/blob/main/images/resized_Distribution-oranges.jpg?raw=true "Orange d'Espagne")                                        |                                  |                                  |
 |                                          |                                  |                                 |
 |     Laurent Disson                |                                  |                                 |
 |     _Le Champi Bio_              |**Champignons**          |                                 |
