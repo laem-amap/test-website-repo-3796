@@ -14,6 +14,8 @@ Une **AMAP** sur [Wikipédia ?](https://fr.wikipedia.org/wiki/Association_pour_l
 
 Les légumes sont frais, de saison, diversifiés, cultivés sans herbicide ni pesticide de synthèse et disponibles à mesure de leur maturité.
 
+![Jardin et plantation](https://github.com/laem-amap/test-website-repo-3796/blob/main/images/resized_Jardin-jeunesplantes.jpg?raw=true "Jeune plantation")
+
 ## Une économie sociale et solidaire
 
 Les consommateurs partagent avec le producteur les risques et les bénéfices naturels liés à l'activité agricole.
