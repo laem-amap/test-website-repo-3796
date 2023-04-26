@@ -39,13 +39,13 @@ title: Des producteurs
 |     Christophe Audouin          |                                  |  Tous les 3 mois          |
 |  _Cadillac en Fronsadais (33)_ |   **Miel**                   |   4ème mardi du mois |
 |   ![Pots de miel](https://github.com/laem-amap/test-website-repo-3796/blob/main/images/resized_Distribution-miel.jpg?raw=true)                                       |                                  |                                 |
-|                                          |                                  |                                 |
+|                                          |                                  |                                |
 |    Aurélie Sabourdy               |                                  |    Le mardi                |
 | _Le P'tit Cadoue,_                 | **Fromages de chèvre** |  Semaines paires        |
 | _Tizac de Lapouyade (33)_      | Faisselles et yaourts     |                                 |
 |                                          |                                  |                                 |
 |                                          |                                  |                                 |
-|   Céline Labadie                   |                                  |                                 |
+|   Céline Labadie                   |                                  |                                |
 |  _EARL Labadie_                  |      **Œufs**               |   Le mardi                 |
-| _La Lande de Fronsac (33)_         |                                  |                         |        |  ![Œufs](https://github.com/laem-amap/test-website-repo-3796/blob/main/images/resized_%C5%92ufs.jpg?raw=true)            
+|  _La Lande de Fronsac (33)_   |                             |                               |        |  ![Œufs](https://github.com/laem-amap/test-website-repo-3796/blob/main/images/resized_%C5%92ufs.jpg?raw=true)            
                                           |                              |                                    |
