@@ -9,6 +9,8 @@ Une **AMAP** sur [Wikipédia ?](https://fr.wikipedia.org/wiki/Association_pour_l
 
 ![Panier hebdomadaire](https://github.com/laem-amap/test-website-repo-3796/blob/main/images/Panier.jpg?raw=true "Panier de printemps")
 
+![](https://github.com/laem-amap/test-website-repo-3796/blob/main/images/resized_Panier.jpg?raw=true)
+
 ## Une alimentation saine, un environnement préservé
 
 Les légumes sont frais, de saison, diversifiés, cultivés sans herbicide ni pesticide de synthèse et disponibles à mesure de leur maturité.
