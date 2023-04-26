@@ -5,8 +5,7 @@ title: Des producteurs
 |:---------------------------------|:---------------------------:|----------------------------:|
 |Amandine Korsoun,               |                                  |                                   |
 | _l'Oasis de Virlès, Vérac_       | **Légumes** de saison  |Le mardi ou le vendredi |
-|                                          |                                  |                                  |
-|                                          |                                  |                                 |
+|                                          |                                  |                                  | ![Légumes](https://github.com/laem-amap/test-website-repo-3796/blob/main/images/resized_Distribution-4.jpg?raw=true)    |                                  |                                 |
 |Flavien Canivet                     |                                  |                                 |
 |_GAEC de la Coutaude,_       |**Produits laitiers** (vache)| 2ème et                    |
 |_Sadillac (24)_                       |  et **pains**               | 4ème mardi du mois    |
