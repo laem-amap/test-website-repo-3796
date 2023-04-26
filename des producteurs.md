@@ -28,17 +28,17 @@ title: Des producteurs
 |                                         |  clémentine, avocat      |  de novembre à avril     |
 |    _Fruits d'Espagne_             |   **Huile d'olive**        |                                |
 |                                          |  Bidon (3 ou 5l.)           |     3 fois par ans         |
-|  ![Orange d'Espagne](https://github.com/laem-amap/test-website-repo-3796/blob/main/images/resized_Distribution-oranges.jpg?raw=true "Orange d'Espagne")                                        |                                  |                                  |
+|  ![Orange d'Espagne](https://github.com/laem-amap/test-website-repo-3796/blob/main/images/resized_Distribution-oranges.jpg?raw=true "Oranges d'Espagne")                                        |                                  |                                  |
 |                                          |                                  |                                 |
 |     Laurent Disson                |                                  |                                 |
 |     _Le Champi Bio_              |**Champignons**          |                                 |
 |_St Germain de la Rivière (33)_| (Paris, Shitakés, Pleurotes)| 4ème mardi du mois |
-|                                          |                                  |                                 |
+|  ![](https://github.com/laem-amap/test-website-repo-3796/blob/main/images/resized_Champignons.jpg?raw=true )                                      |                                  |                                 |
 |                                          |                                  |                                 |
 |                                          |                                  |                                 |
 |     Christophe Audouin          |                                  |  Tous les 3 mois          |
 |  _Cadillac en Fronsadais (33)_ |   **Miel**                   |   4ème mardi du mois |
-|                                          |                                  |                                 |
+|   ![Pots de miel](https://github.com/laem-amap/test-website-repo-3796/blob/main/images/resized_Distribution-miel.jpg?raw=true)                                       |                                  |                                 |
 |                                          |                                  |                                 |
 |    Aurélie Sabourdy               |                                  |    Le mardi                |
 | _Le P'tit Cadoue,_                 | **Fromages de chèvre** |  Semaines paires        |
