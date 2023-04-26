@@ -10,7 +10,7 @@ title: Des producteurs
 |Flavien Canivet                     |                                  |                                 |
 |_GAEC de la Coutaude,_       |**Produits laitiers** (vache)| 2ème et                    |
 |_Sadillac (24)_                       |  et **pains**               | 4ème mardi du mois    |
-|                                          |                                  |                                  |
+|  ![Pain et laitages](https://github.com/laem-amap/test-website-repo-3796/blob/main/images/resized_Distribution-fromages-pain.jpg?raw=true)                                        |                                  |                                  |
 |                                          |                                  |                                 |
 |Denis Laroche                       | **Fruits** et produits   | Selon maturité            |
 |                                          | transformés                | été, automne              |
