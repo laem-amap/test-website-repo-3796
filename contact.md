@@ -29,3 +29,8 @@ D'autres producteurs diversifiés, fruits, œufs, poulets, champignons, fromages
 Véronique Savoie : 05 57 43 61 - Cécile Galland : 06 72 21 05 50
 
 Amandine Korsoun <amandine.oasisdevirles@sfr.f>
+
+_Merci à Scribouilli pour la mise à disposition de l'outil et l'aide.
+Autre site fait avec Scribouilli :_
+ 
+[Amap de Vérac, 33](https://laem-amap.github.io/test-website-repo-3796)
