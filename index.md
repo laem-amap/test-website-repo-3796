@@ -8,7 +8,7 @@ Un groupe de consommateurs passe un contrat avec un maraîcher local. Chaque man
 Une **AMAP** sur [Wikipédia ?](https://fr.wikipedia.org/wiki/Association_pour_le_maintien_d%27une_agriculture_paysanne)
 
 |:-----------------------|:------------------------:|--------------------------:|
-|     ....                        | ![Panier hebdomadaire](https://github.com/laem-amap/test-website-repo-3796/blob/main/images/resized_Panier.jpg?raw=true  "Panier de printemps") |                 ...                               |    
+|   Panier de         | ![Panier hebdomadaire](https://github.com/laem-amap/test-website-repo-3796/blob/main/images/resized_Panier.jpg?raw=true  "Panier de printemps") |              printemps           |    
 
 ## Une alimentation saine, un environnement préservé
 
