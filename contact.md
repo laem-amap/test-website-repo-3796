@@ -28,9 +28,9 @@ D'autres producteurs diversifiés, fruits, œufs, poulets, champignons, fromages
 #### Contact :
 Véronique Savoie : 05 57 43 61 - Cécile Galland : 06 72 21 05 50
 
-[Mél Amandine Korsoun, la maraîchère](amandine.oasisdevirles@sfr.f)
+[Mél Amandine Korsoun, la maraîchère]<amandine.oasisdevirles@sfr.f>
 
-[Facebook"L'Assiette Éthique des Mangeurs en Amap (Aema)"](<https://www.facebook.com/profile.php?id=100092333302143)
+[Facebook"L'Assiette Éthique des Mangeurs en Amap (Aema)"](<https://www.facebook.com/profile.php?id=100092333302143/)
 
 
 
