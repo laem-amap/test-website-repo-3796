@@ -30,6 +30,11 @@ Véronique Savoie : 05 57 43 61 - Cécile Galland : 06 72 21 05 50
 
 Amandine Korsoun <amandine.oasisdevirles@sfr.f>
 
+FB"L'Assiette Éthique des Mangeurs en Amap (Aema)"
+<https://www.facebook.com/profile.php?id=100092333302143>
+
+
+
 _Merci à Scribouilli pour la mise à disposition de l'outil et l'aide.
 Autre site fait avec Scribouilli :_
  
