@@ -34,7 +34,7 @@ Véronique Savoie : 05 57 43 61 - Cécile Galland : 06 72 21 05 50
 
 
 
-###### _Merci à Scribouilli pour la mise à disposition de l'outil et l'aide.
-Autre site fait avec Scribouilli :_
+###### Merci à Scribouilli pour la mise à disposition de l'outil et l'aide.
+Autre site fait avec Scribouilli :
  
 [Ensemble vocal et instrumental APERTURA, 33](https://ensembleapertura.github.io/test-website-repo-3796/)
