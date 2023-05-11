@@ -38,4 +38,4 @@ FB"L'Assiette Éthique des Mangeurs en Amap (Aema)"
 _Merci à Scribouilli pour la mise à disposition de l'outil et l'aide.
 Autre site fait avec Scribouilli :_
  
-[Amap de Vérac, 33](https://laem-amap.github.io/test-website-repo-3796)
+[Amap de Vérac, 33](https://ensembleapertura.github.io/test-website-repo-3796/)
