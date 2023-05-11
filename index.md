@@ -10,6 +10,9 @@ Une **AMAP** sur [Wikipédia ?](https://fr.wikipedia.org/wiki/Association_pour_l
 |:-----------------------|:------------------------:|--------------------------:|
 |   Panier de         | ![Panier hebdomadaire](https://github.com/laem-amap/test-website-repo-3796/blob/main/images/resized_Panier.jpg?raw=true  "Panier de printemps") |              printemps           |    
 
+Rencontre avec Daniel VUILLON, fondateur de la première AMAP en France <https://ledebatteur.fr/2021/02/24/rencontre-avec-daniel-vuillon/>
+
+
 ## Une alimentation saine, un environnement préservé
 
 Les légumes sont frais, de saison, diversifiés, cultivés sans herbicide ni pesticide de synthèse et disponibles à mesure de leur maturité.
